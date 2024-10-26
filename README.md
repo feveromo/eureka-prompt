@@ -2,8 +2,6 @@
 
 A beautiful and intuitive AI prompt generator built with React, TypeScript, and Tailwind CSS. Generate creative prompts for AI image generation with thematic consistency and weighted randomization.
 
-![AI Prompt Generator](https://images.unsplash.com/photo-1675557009875-915f7fdc76c4?auto=format&fit=crop&q=80&w=1200&h=400)
-
 ## ✨ Features
 
 - **Smart Prompt Generation**: Combines subjects, styles, and modifiers with weighted randomization
@@ -89,10 +87,6 @@ export const subjects = [
 
 Adjust the `weight` property (0.0 to 1.0) in promptData.ts to change the likelihood of specific prompts appearing.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -101,12 +95,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/ai-prompt-generator](https://github.com/yourusername/ai-prompt-generator)
-
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [feveromo]
