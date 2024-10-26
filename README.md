@@ -22,8 +22,8 @@ A beautiful and intuitive AI prompt generator built with React, TypeScript, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-prompt-generator.git
-cd ai-prompt-generator
+git clone https://github.com/feveromo/eureka-prompt.git
+cd eureka-prompt
 ```
 
 2. Install dependencies:
